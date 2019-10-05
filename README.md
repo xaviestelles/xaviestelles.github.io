@@ -1,6 +1,4 @@
-# xaviestelles.github.io
-
-# Xavi Estellés
+# avieEstellesgithub.iés
 
 ## Página de materiales en github
 
@@ -9,4 +7,9 @@
 ### 3 ESO
 ### 4 ESO
 ### 1 BACHILLERATO
-### 2 BACHILLERATO
+### 2 BACHILLERATOge.
+## Materiales curriculares informática
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE4OTA2ODkzOTJdfQ==
+-->
